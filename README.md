@@ -1,5 +1,11 @@
 # 💫 About Me:
-test
+Well rounded IT professional with an overwhelming curiosity which pushes my
+drive for continued growth and education in my field. Works well under pressure
+and am inspired when the task at hand requires out of box thinking, and team
+collaboration. Have done a bit of everything when it comes to tech, and quickly
+becomes a go to person for answers when mastering new skills. I see success
+as knowing that you may not have the answer now, but understanding with drive
+one will be the rock-star soon after.
 
 
 # 💻 Tech Stack:
