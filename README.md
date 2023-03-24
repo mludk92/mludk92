@@ -1,4 +1,14 @@
-<h1 style="font-family: 'Pacifico', cursive; color: #ff9800; text-shadow: 1px 1px 0 #d32f2f, -1px -1px 0 #d32f2f, 1px -1px 0 #d32f2f, -1px 1px 0 #d32f2f;">Hi there, I'm Mitch</h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Cool Page</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Hi there, I'm Mitch</h1>
+  <p>Welcome to my cool page!</p>
+</body>
+</html>
 
                                                                                     
 Well rounded IT professional with an overwhelming curiosity which pushes my
