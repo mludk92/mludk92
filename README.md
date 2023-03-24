@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>My Cool Page</title>
-  <link rel="stylesheet" type="text/css" href="https://github.com/mludk92/styles/blob/main/styles.css">
+  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mludk92/styles/main/styles.css">
 
 </head>
 <body>
