@@ -1,12 +1,4 @@
-<h1 style="font-family: 'Montserrat', sans-serif; animation: red-gold-text-animation 3s ease-in-out infinite;">Hi there, I'm Mitch</h1>
-
-<style>
-  @keyframes red-gold-text-animation {
-    0% { color: red; }
-    50% { color: gold; }
-    100% { color: red; }
-  }
-</style>
+<h1 style="font-family: 'Pacifico', cursive; color: #ff9800; text-shadow: 1px 1px 0 #d32f2f, -1px -1px 0 #d32f2f, 1px -1px 0 #d32f2f, -1px 1px 0 #d32f2f;">Hi there, I'm Mitch</h1>
 
                                                                                     
 Well rounded IT professional with an overwhelming curiosity which pushes my
