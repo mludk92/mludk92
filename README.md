@@ -1,3 +1,4 @@
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 # 💫 About Me:
 Well rounded IT professional with an overwhelming curiosity which pushes my
 drive for continued growth and education in my field. Works well under pressure
