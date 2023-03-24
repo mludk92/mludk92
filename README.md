@@ -2,11 +2,10 @@
 <html>
 <head>
   <title>My Cool Page</title>
-  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mludk92/styles/main/styles.css">
+  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mludk92/styles/styles.css">
 </head>
 <body>
   <h1>Hi there, I'm Mitch</h1>
-  <p>Welcome to my cool page!</p>
 </body>
 </html>
 
