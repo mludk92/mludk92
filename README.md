@@ -1,6 +1,6 @@
 # Hi there, I'm MItch
 
-<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" style="width: 250px; height: 100px;" />
+<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" style="width: 300px; height: 150px;" />
 <br>
                                                                                     
 Well rounded IT professional with an overwhelming curiosity which pushes my
