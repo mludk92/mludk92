@@ -1,7 +1,8 @@
 # Hi there, I'm MItch
 
-<img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" style="width: 300px; height: 150px;" />
-<br>
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" style="max-width: 500px; max-height: 300px;" />
+</p>
                                                                                     
 Well rounded IT professional with an overwhelming curiosity which pushes my
 drive for continued growth and education in my field. Works well under pressure
