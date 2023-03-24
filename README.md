@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mludk92/styles/styles.css">
-</head>
-<body>
-  <h1>Hi there, I'm Mitch</h1>
-</body>
-</html>
+<div align="center">
+  <h1 style="font-family: 'Montserrat', sans-serif; color: #6b3e26; text-shadow: 2px 2px #ffd700;">Hi there, I'm Mitch</h1>
+  <p style="font-family: 'Roboto', sans-serif; font-size: 18px; color: #8b4513;">Welcome to my GITHUB</p>
+</div>
+
+
 
                                                                                     
 Well rounded IT professional with an overwhelming curiosity which pushes my
