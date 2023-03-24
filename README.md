@@ -3,7 +3,6 @@
 <head>
   <title>My Cool Page</title>
   <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mludk92/styles/main/styles.css">
-
 </head>
 <body>
   <h1>Hi there, I'm Mitch</h1>
