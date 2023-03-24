@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&animation=twinkling4s&section=header&text=Hi%20there,%20I'm%20Mitch&fontSize=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&animation=twinkling4s&section=header&text=Hi%20there,%20I'm%20Mitch&fontColor=ffffff&fontSize=75&fontAlignY=40" />
+
   <p style="font-size: 40px;">Welcome to my GITHUB</p>
 </div>
 
