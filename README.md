@@ -1,4 +1,16 @@
-# Hi there, I'm MItch
+<h1 style="font-family: 'Montserrat', sans-serif; animation: rainbow-text-animation 3s ease-in-out infinite;">Hi there, I'm Mitch</h1>
+
+<style>
+  @keyframes rainbow-text-animation {
+    0% { color: red; }
+    16% { color: orange; }
+    32% { color: yellow; }
+    48% { color: green; }
+    64% { color: blue; }
+    80% { color: indigo; }
+    100% { color: violet; }
+  }
+</style>
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" style="max-width: 500px; max-height: 300px;align="center"; />
