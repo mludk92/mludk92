@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Cool Page</title>
   <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mludk92/styles/styles.css">
 </head>
 <body>
