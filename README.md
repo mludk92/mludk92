@@ -21,7 +21,6 @@ one will be the rock-star soon after.
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/heroku.png" width="100">
@@ -30,7 +29,6 @@ one will be the rock-star soon after.
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/express.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="100">
-  <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="100">
 </p>
