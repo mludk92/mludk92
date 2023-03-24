@@ -24,7 +24,6 @@ one will be the rock-star soon after.
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="100">
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/heroku.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="100">
@@ -32,7 +31,6 @@ one will be the rock-star soon after.
   <img src="https://img.icons8.com/color/48/000000/express.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="100">
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" width="100">
-  <img src="https://img.icons8.com/color/48/000000/esri.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="100">
 </p>
