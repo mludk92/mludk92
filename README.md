@@ -1,7 +1,7 @@
 # Hi there, I'm MItch
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" style="max-width: 500px; max-height: 300px;" />
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" style="max-width: 500px; max-height: 300px;align="center"; />
 </p>
                                                                                     
 Well rounded IT professional with an overwhelming curiosity which pushes my
