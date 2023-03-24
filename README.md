@@ -1,5 +1,5 @@
 # Hi there, I'm MItch
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<p align="center"> ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)   </p>
 Well rounded IT professional with an overwhelming curiosity which pushes my
 drive for continued growth and education in my field. Works well under pressure
 and am inspired when the task at hand requires out of box thinking, and team
@@ -31,7 +31,7 @@ one will be the rock-star soon after.
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="100">
-</p>
+
 
 
 ## My Most Used Languages
