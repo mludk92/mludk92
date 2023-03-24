@@ -1,10 +1,13 @@
-<h1 style="font-family: 'Montserrat', sans-serif; animation: rainbow-text-animation 3s ease-in-out infinite;">Hi there, I'm Mitch</h1>
+<h1 style="font-family: 'Montserrat', sans-serif; animation: red-gold-text-animation 3s ease-in-out infinite;">Hi there, I'm Mitch</h1>
 
+<style>
+  @keyframes red-gold-text-animation {
+    0% { color: red; }
+    50% { color: gold; }
+    100% { color: red; }
+  }
+</style>
 
-
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" style="max-width: 500px; max-height: 300px;align="center"; />
-</p>
                                                                                     
 Well rounded IT professional with an overwhelming curiosity which pushes my
 drive for continued growth and education in my field. Works well under pressure
