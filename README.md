@@ -2,7 +2,8 @@
 <html>
 <head>
   <title>My Cool Page</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mitch/my-styles/main/style.css">
+
 </head>
 <body>
   <h1>Hi there, I'm Mitch</h1>
