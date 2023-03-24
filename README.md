@@ -1,27 +1,4 @@
-# Hi there, I'm <div>
-  <span class="animated-letter">M</span>
-  <span class="animated-letter">i</span>
-  <span class="animated-letter">t</span>
-  <span class="animated-letter">c</span>
-  <span class="animated-letter">h</span>
-</div>👋
-.animated-letter {
-  animation-name: bounce;
-  animation-duration: 1s;
-  animation-iteration-count: infinite;
-}
-
-@keyframes bounce {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
+# Hi there, I'm MItch
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 Well rounded IT professional with an overwhelming curiosity which pushes my
 drive for continued growth and education in my field. Works well under pressure
