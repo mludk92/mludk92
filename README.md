@@ -1,6 +1,6 @@
 # Hi there, I'm MItch
 ## laptop coding gif:
- <img align="center, height="200px" src="https://github.com/demartini/demartini/blob/master/code.gif" />
+ <img align="center src="https://github.com/demartini/demartini/blob/master/code.gif" />
 <br>
 Well rounded IT professional with an overwhelming curiosity which pushes my
 drive for continued growth and education in my field. Works well under pressure
