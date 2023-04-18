@@ -37,7 +37,7 @@ one will be the rock-star soon after.
   <img src="https://img.icons8.com/color/48/000000/npm.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="100">
-  <img src="https://giphy.com/gifs/esriCol-jzXRsEbnwnoYbcLVfx" width="100">
+ 
 
 # 📊 GitHub Stats:
 
